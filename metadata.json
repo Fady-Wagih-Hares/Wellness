@@ -1,0 +1,7 @@
+{
+  "name": "The Wellness Journey",
+  "description": "A supportive, non-judgmental fitness and nutrition tracker with a calming soft UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
